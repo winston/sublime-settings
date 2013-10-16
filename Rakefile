@@ -1,4 +1,4 @@
-TARGET_DIR = File.expand_path("~/Library/Application Support/Sublime Text 2/Packages/User/")
+TARGET_DIR = File.expand_path("~/Library/Application Support/Sublime Text 3/Packages/User/")
 FILES      = ["Preferences.sublime-settings", "Default (OSX).sublime-keymap"]
 
 desc "Symlink Sublime Settings"
